@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=SW1-2
+Added Component: Designator=J1(FP-SM02B-GHS-TB_LF_SN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Outer Shroud Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.049inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=SW1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-2
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Sheet1 Member=Component J1 SM02B-GHS-TB(LF)(SN)
